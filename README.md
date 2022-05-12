@@ -1,7 +1,4 @@
-![WELCOME](https://img.shields.io/badge/%20welcome%20to-rands%20github-lightgrey?style=for-the-badge)![EST2020](https://img.shields.io/badge/%20est-2020-red?style=for-the-badge)
-
-To keep this simple, I mostly just dwell onto GitHub. :octocat:
-
-# Friends with
-@haydenwalker980
-@cooldoglol
+# `readme.md`  
+oh boy where do i start.  
+### Skill Icons ~~i guess~~  
+[![My Skills](https://skillicons.dev/icons?i=css,html,dotnet,raspberrypi,md&theme=light)](https://skillicons.dev)
